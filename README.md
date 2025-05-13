@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Ismael Ribeiro
 
-**`Analista de Dados | Estudante de ADS`**
+**`Analista de Dados`**
 
-Me chamo **Ismael Ribeiro dos Santos Lima**, sou analista de dados e atualmente estou no último semestre do curso de **Análise e Desenvolvimento de Sistemas** na **Faculdade Unifan**, instituição com nota 5 no MEC, localizada em **Feira de Santana - BA**. Tenho experiência prática com **Python**, utilizando bibliotecas como `pandas`, `numpy`, `matplotlib` e `IPython`, além de dominar **Power BI** e **SQL** para análise e visualização de dados.
+Me chamo **Ismael Ribeiro dos Santos Lima**, sou analista de dados graduado em **Análise e Desenvolvimento de Sistemas** na **Faculdade Unifan**, instituição com nota 5 no MEC, localizada em **Feira de Santana - BA**. Tenho experiência prática com **Python**, utilizando bibliotecas como `pandas`, `numpy`, `matplotlib` e `IPython`, além de dominar **Power BI** e **SQL** para análise e visualização de dados.
 
 Sou apaixonado por transformar dados em insights valiosos e por construir soluções eficientes com código limpo e bem documentado.
 
@@ -87,7 +87,7 @@ Sou apaixonado por transformar dados em insights valiosos e por construir soluç
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaelrlimai&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaelrlima&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
@@ -97,7 +97,7 @@ Sou apaixonado por transformar dados em insights valiosos e por construir soluç
 
 - 📧 E-mail: canais185@gmail.com  
 - 📱 WhatsApp: (75) 98152-7109  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)
+- 🌐 [LinkedIn](www.linkedin.com/in/ismael-ribeiro-dos-santos-lima)
 
 ---
 
