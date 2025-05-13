@@ -119,9 +119,8 @@ Busco entregar soluções eficientes, organizadas e orientadas por dados, sempre
 <br/>
 ### 📫 Contato
 
-- 📧 E-mail: canais185@gmail.com  
-- 📱 WhatsApp: (75) 98152-7109  
-- 🌐 [LinkedIn](www.linkedin.com/in/ismael-ribeiro-dos-santos-lima)
+- 📧 E-mail: canais185@gmail.com   
+- 🌐 [LinkedIn]([www.linkedin.com/in/ismael-ribeiro-dos-santos-lima](https://br.linkedin.com/in/ismael-ribeiro-dos-santos-lima?trk=people-guest_people_search-card))
 
 ---
 
