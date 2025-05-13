@@ -119,8 +119,7 @@ Busco entregar soluções eficientes, organizadas e orientadas por dados, sempre
 <br/>
 ### 📫 Contato
 
-- 📧 E-mail: canais185@gmail.com   
-- 🌐 [LinkedIn]([www.linkedin.com/in/ismael-ribeiro-dos-santos-lima](https://br.linkedin.com/in/ismael-ribeiro-dos-santos-lima?trk=people-guest_people_search-card))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/Ismael-Ribeiro-dos-Santos-Lima/)
 
 ---
 
