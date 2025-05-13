@@ -2,9 +2,17 @@
 
 **`Analista de Dados`**
 
-Me chamo **Ismael Ribeiro dos Santos Lima**, sou analista de dados graduado em **Análise e Desenvolvimento de Sistemas** na **Faculdade Unifan**, instituição com nota 5 no MEC, localizada em **Feira de Santana - BA**. Tenho experiência prática com **Python**, utilizando bibliotecas como `pandas`, `numpy`, `matplotlib` e `IPython`, além de dominar **Power BI** e **SQL** para análise e visualização de dados.
+Olá! Me chamo **Ismael Ribeiro dos Santos Lima**. Sou **analista de dados**, graduado em **Análise e Desenvolvimento de Sistemas** pela **Faculdade Unifan** (nota 5 no MEC).
 
-Sou apaixonado por transformar dados em insights valiosos e por construir soluções eficientes com código limpo e bem documentado.
+Tenho experiência sólida com **Python** para análise e tratamento de dados, utilizando bibliotecas como `pandas`, `numpy`, `matplotlib` e `IPython`. Em situações mais complexas, utilizo o **Matplotlib** para gerar visualizações personalizadas, facilitando a extração de insights detalhados diretamente a partir dos dados.
+
+Atuo com **bancos de dados relacionais e não relacionais**, com domínio em **SQL**, **PostgreSQL** e **MongoDB**. Meu foco está na criação de **queries elaboradas e certeiras**, otimizadas para performance, precisão e clareza nos resultados.
+
+Também desenvolvo dashboards e relatórios interativos no **Power BI**, proporcionando visualizações estratégicas que apoiam a tomada de decisão de forma ágil e fundamentada.
+
+Busco entregar soluções eficientes, organizadas e orientadas por dados, sempre alinhadas às necessidades reais do negócio.
+
+
 
 ---
 
@@ -16,7 +24,7 @@ Sou apaixonado por transformar dados em insights valiosos e por construir soluç
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -52,6 +60,22 @@ Sou apaixonado por transformar dados em insights valiosos e por construir soluç
 />
 <img 
     align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Power BI" 
     title="Power BI"
     width="30px" 
@@ -64,7 +88,7 @@ Sou apaixonado por transformar dados em insights valiosos e por construir soluç
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 
 <br/>
@@ -92,7 +116,7 @@ Sou apaixonado por transformar dados em insights valiosos e por construir soluç
 </p>
 
 ---
-
+<br/>
 ### 📫 Contato
 
 - 📧 E-mail: canais185@gmail.com  
